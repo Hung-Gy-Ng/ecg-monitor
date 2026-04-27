@@ -10,7 +10,7 @@ Extra components:
 - Email + Password authentication
 - Cloud hosting
 - Mobile APK app
-- CSV export
+- CSV export (ongoing)
 - BLE communication (ongoing)
 
 Website interface: https://project-ithealth-group7.web.app/
