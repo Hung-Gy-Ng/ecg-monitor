@@ -1,0 +1,5 @@
+{
+  "appId": "com.ithealth.ecg",
+  "appName": "ecg-monitor",
+  "webDir": "dist"
+}
