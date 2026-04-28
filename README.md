@@ -4,14 +4,14 @@ Function:
 - Live ECG Display
 - Patient Information Insert Panel
 - Historical Data Viewer
-- Real-time database
+- Real-time Database
 
 Extra components:
-- Email + Password authentication
-- Cloud hosting
-- Mobile APK app
-- CSV export (ongoing)
-- BLE communication (ongoing)
+- Email + Password Authentication
+- Cloud Hosting
+- Mobile APK App
+- CSV Export (ongoing)
+- BLE Communication (ongoing)
 
 Website interface: https://project-ithealth-group7.web.app/
 
